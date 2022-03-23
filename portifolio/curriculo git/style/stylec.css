@@ -1,0 +1,13 @@
+.nome{
+    text-align: center;
+    color: white;
+    margin-top: 60px; 
+}
+
+
+
+.category{
+    grid-template-columns: repeat(2, auto);
+    color: white;
+    text-align: center;
+}
