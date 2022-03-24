@@ -1,6 +1,6 @@
 .nome{
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
     margin-top: 60px; 
 }
 
@@ -8,6 +8,19 @@
 
 .category{
     grid-template-columns: repeat(2, auto);
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
+}
+.button{
+    background: rgb(255, 255, 255);
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    text-shadow: none;
+}
+
+.experiencia{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-top: 60px; 
 }
