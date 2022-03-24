@@ -11,13 +11,14 @@
     color: rgb(0, 0, 0);
     text-align: center;
 }
-.button{
-    background: rgb(255, 255, 255);
+.buttonp{
+    background: transparent;
     border: 1px solid black;
-    border-radius: 12px;
-    box-shadow: 5px 5px 5px gray;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px rgb(0, 0, 0);
     text-shadow: none;
-    height: 30px;
+    height: 40px;
+    width: 110px;
 }
 
 .experiencia{
@@ -30,8 +31,7 @@
     text-align: center;
 }
 .img{
-    border-radius: 30px;
-    
+    border-radius: 30px; 
 }
 
 
@@ -40,11 +40,12 @@
     margin-top: 30px;
 }
 
-.button{
-    
+.buttonc{
     background: transparent;
-    border: 1px solid transparent;
-    border-radius: 20px;
-    box-shadow: 5px 5px 5px transparent;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px black;
     text-shadow: none;
+    height:35px;
+    width: 70px;
 }
